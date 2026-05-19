@@ -1,4 +1,4 @@
-3'''
+'''
 Matura Übungsaufgabe_002 (2 Punkte)
 
 Angabe:

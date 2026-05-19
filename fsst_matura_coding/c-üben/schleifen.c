@@ -25,7 +25,11 @@ void main()
         z++; 
     }
     while (z < 10);
-}
 
+    int u = 10;
+    int *p = &u;
+    (*p)++;
+    printf("%i\n", u);
+}
 
 
